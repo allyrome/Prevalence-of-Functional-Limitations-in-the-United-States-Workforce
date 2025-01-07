@@ -1,0 +1,212 @@
+prim_key,Private insurance through employer or union,Private insurance through family member’s employer or union,"Private insurance, not through employer or union",Medicare,Medicaid,VA Health Care,TRICARE,"Other, namely",Q87_8_other,Q87_10,TS Comments on Insurance
+10047537:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is
+10057559:1,No (0),Yes (1),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is
+11044046:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical ,,Keep boxes as is
+11044088:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,HMO ,1,"Create new box for ""Private insurance, source unknown"" and recode so that both this new box and Medicare box are checked, and uncheck ""Other"""
+11044094:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medigap coverage,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+11044150:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,covered california,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (Covered California is the CA insurance exchange)"
+11044154:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Mass health care,No (0),"Recode so that only ""Medicaid"" is checked, and uncheck ""Other"" (Masshealth is MA Medicaid)"
+11044211:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Welfare insurance,,Keep boxes as is
+11044227:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Covered CA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (Covered California is the CA insurance exchange)"
+11044237:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),0,blue cross blue sheild,1,"Create new box for ""Private Insurance, source unknown"" and check that, uncheck ""Other"""
+11044242:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),,,Keep boxes as is
+11044244:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,HMO,1,"Create new box for ""Private insurance, source unknown"" and recode so that both this new box and Medicare box are checked, and uncheck ""Other"""
+11044305:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical,,Keep boxes as is
+11044320:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Accchs,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" (I suspect respondent means AHCCCS, which is AZ Medicaid)"
+11044362:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Healthmarket,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+11044409:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),in wife insurance,,Keep boxes as is
+11044475:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),AZ healthcare ,,Keep boxes as is (unclear whether this is Medicaid or some other state insurance program)
+11044682:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+11044792:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Medi-cal,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" (Medi-Cal is CA Medicaid)"
+11044824:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11044844:1,No (0),No (0),1,1,No (0),No (0),No (0),0,Medicare Advantage,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+11054002:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11054053:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),My health LA care plan ,,Keep boxes as is
+11054215:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Hospital discount,,Keep boxes as is 
+11054249:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,obamacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" "
+11064138:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),Yes (1),0,United Health Care,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+11064472:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),0,United Healthcare ,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+11064530:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),0,Masshealth,No (0),"Uncheck ""Other"", keep other boxes as is (Masshealth is MA Medicaid)"
+11064582:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Indian health service,,Keep boxes as is 
+11064590:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Healthcare marketplace,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+11074136:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11074261:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),State,,Keep boxes as is 
+11074344:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Medi-cal,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" (Medi-Cal is CA Medicaid)"
+11074376:1,No (0),No (0),No (0),Yes (1),1,No (0),No (0),0,Acchs,No (0),"Recode so that both ""Medicare"" and ""Medicaid"" are checked, and uncheck ""Other"" (I suspect respondent means AHCCCS, which is AZ Medicaid)"
+11074459:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11074489:1,No (0),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11074548:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medicak,,"Keep boxes as is (unclear whether this is a misspelling of ""medical"" or ""Medi-Cal"")"
+11084191:1,1,No (0),No (0),No (0),No (0),No (0),No (0),0,COBRA,No (0),"Recode so that  ""Private Insurance through employer/union"" is checked, and uncheck ""Other"" "
+11084307:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),0,fidelis,1,"Create new box for ""Private Insurance, source unknown"" and check that, uncheck ""Other"" (Fidelis is a private health plan in NY state, also offers Medicare and Medicaid plans but since respondent indicated neither, would consider it ""other private"")"
+11084373:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),ADPT,,Keep boxes as is (unclear what ADPT is)
+11084376:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),state,,Keep boxes as is 
+11084398:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11084554:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,ahcccs,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" ( AHCCCS is AZ Medicaid)"
+11084722:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+11084753:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,state: United Health Care,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+11094023:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Only emergency,,Keep boxes as is 
+11094262:1,No (0),No (0),No (0),No (0),1,Yes (1),No (0),0,Mass Health,No (0),"Recode so that  ""Medicaid"" and ""VA"" are checked, and uncheck ""Other"" ( Masshealth is MA Medicaid)"
+11094362:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),0,HMO,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"""
+11094416:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical,,Keep boxes as is 
+11094423:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare Supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+11094465:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),Yes (1),AARP,,Keep boxes as is (unclear whether AARP plan is a Medicare or other plan)
+11104027:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),molina,,Keep boxes as is (unclear whether Molina plan is a Medicare or other plan)
+11114070:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Cal optima,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" (CalOptima administers CA Medicaid)"
+11114193:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+12014187:1,No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),Yes (1),shared medical expenses,,Keep boxes as is 
+12014306:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Heathshare ,,Keep boxes as is 
+12014403:1,No (0),No (0),No (0),Yes (1),1,No (0),No (0),0,husky,No (0),"Recode so that both ""Medicare"" and ""Medicaid"" are checked, and uncheck ""Other"" (Husky is CT Medicaid)"
+12014580:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),GHI,,Keep boxes as is 
+12014601:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+12014676:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Humana,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+12024107:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical,,Keep boxes as is 
+12024316:1,Yes (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+12024334:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,ACCHS,No (0),"Recode so that ""Medicaid"" is checked, and uncheck ""Other"" (I suspect respondent means AHCCCS, which is AZ Medicaid)"
+12024368:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),0,s.s.I,No (0),"Uncheck ""Other"", keep other boxes as is (SSI comes with Medicaid)"
+12024902:1,No (0),No (0),No (0),Yes (1),1,No (0),No (0),0,Health Net/Medi-cal,No (0),"Recode so that  both ""Medicare and ""Medicaid"" are checked, and uncheck ""Other"" (Medi-Cal is CA Medicaid)"
+12024989:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),0,Cobra,No (0),"Uncheck other, keep other boxes as is"
+12025058:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Obacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+12025108:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Marketplace,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+12034103:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+12034290:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare Supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+12044156:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+14092005:1,No (0),Yes (1),No (0),Yes (1),No (0),No (0),Yes (1),No (0),,,Keep boxes as is 
+14092006:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Blue Cross Blue Shield ppo,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+14092017:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092048:1,No (0),No (0),No (0),Yes (1),No (0),No (0),1,0,Tricare for Life,No (0),"Recode so that both ""Medicare"" and ""TRICARE"" are checked, and uncheck ""Other"" "
+14092064:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medigap,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092073:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare Advantage (Kaiser),No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092088:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+14092113:1,No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+14092126:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Blue Shield 65,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+14092175:1,Yes (1),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Private insurance through my former employer (NYC),No (0),"Uncheck ""Other"", keep other boxes as is (respondent already mentions ESI)"
+14092185:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical,,Keep boxes as is 
+14092201:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Etna,1,"Create new box for ""Private insurance, source unknown and check it, uncheck ""Other"", keep other boxes as is "
+14092213:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medigap Anthem Blue Sheild ,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092243:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (respondent likely referring to health insurance exchanges/marketplaces)"
+14092266:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),coverage through Sr. living Facility,,Keep boxes as is 
+14092290:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Retired State Health program,,Keep boxes as is 
+14092302:1,1,No (0),No (0),Yes (1),No (0),No (0),No (0),0,Private insurance through my previous employer...VA Health Care System,No (0),"Recode so that both ""Medicare and ""Private Insurance, Employer"" are checked, and uncheck ""Other"""
+14092308:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092330:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,HMO,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+14092354:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,WA Apple Health,No (0),"Recode so that ""Medicaid"" is checked, and uncheck ""Other"" (Apple Health is WA Medicaid)"
+14092362:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+14092373:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092377:1,No (0),No (0),No (0),Yes (1),No (0),1,No (0),0,V.A.,No (0),"Recode so that both ""Medicare"" and ""VA"" are checked, and uncheck ""Other"" "
+14092379:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Private Retiree Benefit,1,"Create new box for ""Private Insurance, source unknown"" and check that, uncheck ""Other"""
+14092386:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092390:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Federal health insurance,,Keep boxes as is 
+14092405:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP SUPPL PLAN,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092419:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Insurance through Covered California,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (Covered California is the CA insurance exchange)"
+14092443:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Native american,,Keep boxes as is 
+14092463:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP Healthcare Supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092477:1,No (0),No (0),1,Yes (1),Yes (1),No (0),No (0),0,AARP Supplemental,No (0),"Recode so that ""Private Insurance, not through employer/union"" is checked,  uncheck ""Other"", leave other boxes as is"
+14092490:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical Assistance,,Keep boxes as is 
+14092551:1,No (0),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+14092562:1,No (0),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+14092566:1,No (0),No (0),1,1,No (0),No (0),No (0),0,AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092587:1,Yes (1),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+14092684:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+14092709:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplemental ,,Keep boxes as is
+14092731:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Covered California ,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"" (Covered California is the CA insurance exchange)"
+14092782:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare suppliment,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092792:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Suppmental ,,Keep boxes as is
+14092798:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+14092826:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Exchange,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+14102003:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,united health care,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+14102014:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Marketplace Obamacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+14102017:1,1,No (0),No (0),No (0),No (0),Yes (1),No (0),0,Fed BCBS,No (0),"Recode so that both ""VA"" and ""Private Insurance, through employer/union"" are checked, and uncheck ""Other"" (Federal employee health benefit)"
+14102057:1,No (0),No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),,,Keep boxes as is 
+14102075:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,HMO,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+14112003:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Christian Healthcare Ministry ,,Keep boxes as is 
+2021081:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+2021093:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+2021095:1,No (0),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+2031176:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,aarp supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+2061003:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Plus supplement ,,Keep boxes as is
+2071163:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+2081150:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Health Share,,Keep boxes as is 
+2111018:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Additional BS/BS,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+2121047:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Healthcare.gov,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+2121102:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+2121201:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Affordable care act,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+3041181:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplemental,,Keep boxes as is 
+3101082:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplemental,,Keep boxes as is 
+3101190:1,No (0),No (0),No (0),Yes (1),No (0),1,No (0),0,Champva,No (0),"Recode so that both ""VA"" and ""Medicare"" are checked, and uncheck ""Other"""
+3111182:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+3121027:1,Yes (1),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),federal retirement plan,,Keep boxes as is 
+3121044:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplimental Coverage,,Keep boxes as is 
+4121035:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),healthcare sharing ministry,,Keep boxes as is 
+4121153:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Educate supplemental,,Keep boxes as is 
+5021024:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplemental Insurance ,,Keep boxes as is 
+5021063:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,supplemental with BCBS,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+5041011:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Private supplemental insurance,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+5041075:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,cigna,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+5051112:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),0,Kaiser HMO,1,"Create new box for ""Private Insurance, source unknown"" and check that, uncheck ""Other"""
+5091003:1,No (0),No (0),No (0),Yes (1),No (0),1,No (0),0,v a benefits,No (0),"Recode so that both ""VA"" and ""Medicare"" are checked, and uncheck ""Other"""
+5101045:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is 
+5121008:1,1,No (0),No (0),Yes (1),No (0),No (0),No (0),0,thru work also,No (0),"Recode so that both Medicare box and ""Private Insurance through employer/union"" are checked, and uncheck ""Other"""
+5121056:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Affordable Care Act,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+6011092:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplemental,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+6051183:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),State Supplement,,Keep boxes as is 
+6051201:1,1,No (0),No (0),No (0),No (0),No (0),No (0),0,Cobra,No (0),"Recode so that  ""Private Insurance through employer/union"" is checked, and uncheck ""Other"" "
+6061023:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,blue cross blue shield,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+6081066:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Mecicare Advantage,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+6081183:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,private insurance,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+6081197:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Cooperative,,Keep boxes as is
+6111116:1,No (0),Yes (1),No (0),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is
+6111186:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Secondary insurance,,Keep boxes as is
+6121024:1,No (0),Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+6121040:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,bcbs,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+7011189:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medicare supplement insurance,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7021067:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplement Blue Cross,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7041040:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare advantage,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7041111:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),Supplement,,Keep boxes as is
+7041184:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP Supplemental Ins,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7051186:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+7061011:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,United Health Care AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7061133:1,1,No (0),No (0),No (0),No (0),No (0),No (0),0,BC/BS Federal ,No (0),"Recode so that  ""Private Insurance through employer/union"" is checked, and uncheck ""Other"" "
+7071001:1,No (0),No (0),No (0),1,No (0),No (0),No (0),Yes (1),medicare complete,No (0),"Recode so that both Medicare and ""Other"" are checked"
+7071043:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7071072:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,"""Advantage Plan"" supplemental policy",No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7081186:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),state,,Keep boxes as is
+7091087:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+7091182:1,No (0),No (0),No (0),No (0),1,No (0),No (0),0,Medi-Cal,No (0),"Recode so that  ""Medicaid"" is checked, and uncheck ""Other"" (Medi-Cal is CA Medicaid)"
+7101110:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+7101186:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,Humana supplemental,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+7111051:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Blue Cross Medicare supplement,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+7111074:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+7111203:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Sharing plan,,Keep boxes as is
+7121029:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Obamacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+7121052:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Federal Employee Health Benefits,,Keep boxes as is
+7121091:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+8011103:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medigap,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+8011106:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+8021126:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+8031170:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),Medical Assitance,,Keep boxes as is
+8041185:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),plus supplemental,,Keep boxes as is
+8051036:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+8061104:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Obamacare ,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+8061113:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,medicare suppliment,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+8061178:1,No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),No (0),,,Keep boxes as is
+8081148:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare Advantage managed care with added premium,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+9097001:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,MARKETPLACE,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+9097013:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),FEHB,,Keep boxes as is
+9097041:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),0,BC/BS,1,"Create new box for ""Private insurance, source unknown"" and check it, uncheck ""Other"", keep other boxes as is "
+9097046:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Medicare supplement Plan F,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+9107084:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,ACA,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+9107102:1,No (0),No (0),No (0),Yes (1),Yes (1),No (0),No (0),No (0),,,Keep boxes as is
+9107108:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,Supplemental through AARP,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+9107116:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,obamacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+9107139:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,retired husbands supplemental ins.,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+9107163:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+9107166:1,1,No (0),No (0),1,No (0),No (0),No (0),0,Medicare Advantage through prior employer,No (0),"Recode so that both Medicare box and ""Private Insurance through employer/union"" are checked, and uncheck ""Other"""
+9107181:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+9107243:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),State supplemental health plan for retirees,,Keep boxes as is
+9107247:1,Yes (1),No (0),No (0),No (0),No (0),No (0),No (0),No (0),,,Keep boxes as is
+9107276:1,No (0),No (0),No (0),No (0),No (0),No (0),No (0),Yes (1),state,,Keep boxes as is
+9107315:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),with supplement,,Keep boxes as is
+9107328:1,No (0),No (0),Yes (1),No (0),No (0),No (0),No (0),Yes (1),NYS State of Health contributes a portion of what I pay,,Keep boxes as is
+9117376:1,No (0),No (0),1,No (0),No (0),No (0),No (0),0,Obamacare,No (0),"Recode so that only ""Private Insurance, not through employer/union"" is checked, and uncheck ""Other"""
+9117392:1,No (0),No (0),1,Yes (1),No (0),No (0),No (0),0,supplemental coverage additional medicare,No (0),"Recode so that both Medicare box and ""Private Insurance, not through employer/union"" are checked, and uncheck ""Other"""
+9117490:1,No (0),No (0),No (0),Yes (1),No (0),No (0),No (0),Yes (1),mutual of omaha supplement,,Keep boxes as is
