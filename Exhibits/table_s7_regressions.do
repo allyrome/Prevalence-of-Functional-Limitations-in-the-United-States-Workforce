@@ -1,6 +1,9 @@
 * Table S7 - Regressions sensitivity comparisons
 * Author: Alexandra Rome
-* Purpose: 
+* Purpose: Regress total number of limitations on medical conditions using
+*   1. Weighted sum of 97 total limitataions
+*   2. Unweighted sum of 56 total limitations
+*   3. Weighted sum of 56 total limitations
 
 *==================================================================================================
 
