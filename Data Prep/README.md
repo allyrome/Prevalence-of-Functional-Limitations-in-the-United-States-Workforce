@@ -19,3 +19,9 @@ HFCS_CLEAN.dta : Cleaned HFCS data
 hfcs_recodes_clpsd.dta : HFCS data with additional information from data_prep.do
 #### output: 
 medcond_g.dta
+
+## limitations_job_prevalence_ed.do
+Finds the number of job profiles that assess each limittaion/job requirement
+#### inputs:
+
+#### output:
