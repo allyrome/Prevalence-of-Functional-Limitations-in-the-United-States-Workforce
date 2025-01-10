@@ -25,6 +25,6 @@ Finds the number of job profiles that assess each limittaion/job requirement
 #### inputs: 
 non_numeric_items_wide_by_job_profiles.dta : job profiles mapped to functional limitations from the CBBS \
 general_items_by_job_profiles.dta : job profile information from the CBBS \
-numeric_items_wide_by_job_profiles.dta : job profiles mapped to functional limitations from the CBBS \
+numeric_items_wide_by_job_profiles.dta : job profiles mapped to functional limitations from the CBBS 
 #### output:
 job_profiles_limitations_education
