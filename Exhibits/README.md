@@ -19,13 +19,13 @@ Produces Table S1 inputs: hfcs_recodes.dta, variables_full_fml.xlsx interim: hfc
 Produces Table S2 inputs: boot_results.dta med_condition_coefficients.xlsx interim: ttest_results_with_starss2.dta output: prevalence_by_occupation
 
 ## figure_s1_prevalence_56.do
-Produces Figure S1 inputs: output:
+Produces Figure S1 inputs: hfcs_recodes.dta  limitations_prevalence_job_profiles_hfcs.xlsx interim: hfcs_recodes_collapse_sensitivity.dta output: prevalence_by_group_sensitivity.png
 
 ## figure_s2_mean_limitations_56.do
-Produces Figure S2 inputs: output:
+Produces Figure S2 inputs: hfcs_recodes.dta limitations_prevalence_job_profiles_hfcs.xlsx HFCS_CLEAN.dta interim: figure2_stars_sensitivity output: mean_limitations_by_demo_job_stars_sensitivity.png
 
 ## table_s6_summary_stats_97_56.do
-Produces Table S6 inputs:
+Produces Table S6 inputs: hfcs_recodes.dta job_profiles_limitations_education HFCS_CLEAN.dta output: summary_stats_97_56.xlsx
 
 ## table_s7_regressions.do
-Produces Table S7 inputs: output: 
+Produces Table S7 inputs: medcond_g.dta interim: med_condition_coefficients_97wtd.xlsxoutput: 
