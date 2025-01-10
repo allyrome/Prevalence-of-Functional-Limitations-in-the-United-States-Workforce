@@ -28,4 +28,4 @@ Produces Figure S2 inputs: hfcs_recodes.dta limitations_prevalence_job_profiles_
 Produces Table S6 inputs: hfcs_recodes.dta job_profiles_limitations_education HFCS_CLEAN.dta output: summary_stats_97_56.xlsx
 
 ## table_s7_regressions.do
-Produces Table S7 inputs: medcond_g.dta interim: med_condition_coefficients_97wtd.xlsxoutput: 
+Produces Table S7 inputs: medcond_g.dta interim: med_condition_coefficients_97wtd.xlsx output: exhibit_s7_56wtd.xlsx
