@@ -1,4 +1,4 @@
-These files run our analysis and produce the first 14 exhibits. Table S9 is constructed manually 
+These files run our analysis and produce 14 of our 15 exhibits. Table S5 is constructed manually 
 
 ## table_1_descr_stats.do 
 Produces Table 1, inputs: hfcs_recodes.dta HFCS_CLEAN.dta outputs: summary_stats_stars.csv
