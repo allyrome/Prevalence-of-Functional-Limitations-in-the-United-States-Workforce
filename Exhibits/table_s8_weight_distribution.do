@@ -1,3 +1,7 @@
+* Table S8 - Distribution of limitation weights by set of items and educational requirement
+* Author: Alexnadra Rome
+* Purpose: Construct the distribution of the weighted limitations under each scheme
+*==================================================================================================
 
 cd "C:\Users\arome\HMS Dropbox\Alexandra Rome\Medical Conditions Affecting Work Capacity" 
 
@@ -78,7 +82,7 @@ restore
 
 keep if college_degree56 > 0
 
-// Collapse the dataset to compute summary statistics
+* Collapse the dataset to compute summary statistics
 collapse (mean) college_degree56_mean = college_degree56 no_college_degree56_mean = no_college_degree56 ///
          (min) college_degree56_min = college_degree56 no_college_degree56_min = no_college_degree56 ///
          (max) college_degree56_max = college_degree56 no_college_degree56_max = no_college_degree56 ///
