@@ -29,3 +29,6 @@ Produces Table S6 inputs: hfcs_recodes.dta, job_profiles_limitations_education, 
 
 ## table_s7_regressions.do
 Produces Table S7 inputs: medcond_g.dta interim: med_condition_coefficients_97wtd.xlsx, med_condition_coefficients_56unwtd.xlsx, med_condition_coefficients_56wtd.xlsx output: exhibit_s7_97wtd, exhibit_s7_56unwtd, exhibit_s7_56wtd.xlsx
+
+## table s8_weight_distribution.do
+Produces Table S8 inputs: hfcs_recodes.dta, job_profiles_limitations_education output: exhibit_s8_weight_distribution.xlsx
